@@ -1,0 +1,1 @@
+This is code for "ECINFusion: A Novel Explicit Channel-wise Interaction Network for Unified Multi-modal Medical Image Fusion"
