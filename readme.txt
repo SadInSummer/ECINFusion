@@ -1,6 +1,7 @@
 This is code for "ECINFusion: A Novel Explicit Channel-wise Interaction Network for Unified Multi-modal Medical Image Fusion"
 
 Dataset: All the multi-modal medical images are from the public dataset: Harvard, https://www.med.harvard.edu/AANLIB/home.html
+And the other datasets are all list in our paper.
 
 #Environment requirements reconmmended:
 CUDA 11.3
