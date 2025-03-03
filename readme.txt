@@ -17,5 +17,11 @@ python Train.py
 #How to test:
 python Test.py
 
+The pre-trained on CT-MRI: https://drive.google.com/file/d/1Wpr1T16acHboDGSlZzZGabroygr2U7OP/view?usp=drive_link
+
+
+The pre-trained on PET-MRI: https://drive.google.com/file/d/1acy75A2UHXHUY1zFxlYJLpvC2x2Nf3SX/view?usp=drive_link
+
+
 
 Thanks for the work of MATR.
