@@ -24,4 +24,18 @@ The pre-trained on PET-MRI: https://drive.google.com/file/d/1acy75A2UHXHUY1zFxlY
 
 
 
+
+@ARTICLE{ECINFusion,
+  author={Wei, Xinjian and Qiu, Yu and Xu, Xiaoxuan and Xu, Jing and Mei, Jie and Zhang, Jun},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={ECINFusion: A Novel Explicit Channel-Wise Interaction Network for Unified Multi-Modal Medical Image Fusion}, 
+  year={2025},
+  volume={35},
+  number={5},
+  pages={4011-4025},
+  keywords={Biomedical imaging;Image fusion;Adaptation models;Feature extraction;Transformers;Magnetic resonance imaging;Convolution;Transforms;Single photon emission computed tomography;Semantics;Multi-modal medical image fusion;multi-modal image fusion;multi-modal interaction;feature fusion;transformer},
+  doi={10.1109/TCSVT.2024.3516705}}
+
+
+
 Thanks for the work of MATR.
